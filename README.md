@@ -1,5 +1,5 @@
-# Executive
-The main executive repository. This is the main entry point to the executive, and other, communications.
+# Help
+The main informational repository. This is the main entry point to major team-wide information, and other, communications.
 
 For quick navigation:
 
@@ -9,6 +9,7 @@ For quick navigation:
 - [The Teams](#teams)
 - [Code of Conduct](#coc)
 - [Contributing](#contributing)
+- [GitHub Project Guide](#gprojectguide)
 
 ## <a name="welcome"></a> Welcome
 Welcome to the HNG Team Fury organization. This is where we will all (backend, frontend, mobile, and design) be coordinating, sharing, and collaborating.
@@ -85,3 +86,6 @@ Please read HNG Team Fury's [Code of Conduct](https://github.com/hng-teamfury-or
 
 ## <a name="contributing"></a> Contributing
 For further information on contributing to the team's repositories, please view the readme file in the repository of the relevant team.
+
+## <a name="gprojectguide"></a> GitHub Project Guide
+For further information on GitHub Project, the project management tool, see the [GitHub Project's Guide](https://github.com/hng-teamfury-org/help/blob/master/GITHUB_PROJECTS_GUIDE.md).
