@@ -59,9 +59,9 @@ There are 4 guidelines you should always follow. Namely:
 ### <a name="cf-guideline"></a> Card Format (Team Without Repository) Guideline
 Each card should have a basic format that remains consistent. Here's how a template for a team without a repository should look like:
 
-```markdown
-###### <Your Task Name>
-####### Assigned To: @<assignees-github-username>, ..., ...
+```
+<Your Task Name>
+Assigned To: @<assignees-github-username>, ..., ...
 
 <Your-Brief-Description-Of-Task>
 
@@ -71,7 +71,7 @@ Requirements:
 
 The <Your-Checklist> section should be in this format for each item:
 
-```markdown
+```
 - [ ] Item Not Done
 - [x] Item Done
 ```
@@ -79,8 +79,8 @@ The <Your-Checklist> section should be in this format for each item:
 Here is an example of a card in the format shown above.
 
 ```markdown
-##### Create GITHUB_PROJECTS_GUIDE file for executive repo
-###### Assigned To: @theguy
+Create GITHUB_PROJECTS_GUIDE file for executive repo
+Assigned To: @theguy
 
 The executive repo is the entry point for all team members.
 As such, the GITHUB_PROJECTS_GUIDE.md file must be created to
