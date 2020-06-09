@@ -47,6 +47,8 @@ If any one has an enquiry, contact one of the helpers of your respective team. T
 
 #### Mobile Deputy
 
+- [@Trojan9](https://github.com/Trojan9)
+
 #### Design Deputy
 
 - [@G4Coder](https://github.com/G4Coder)
@@ -54,6 +56,18 @@ If any one has an enquiry, contact one of the helpers of your respective team. T
 #### DevOps Deputy
 
 - [@IsmailMuhammed2019](https://github.com/IsmailMuhammed2019)
+
+#### Marketing and Operations Deputy
+
+- [@josephkalu](https://github.com/josephkalu)
+
+#### Github Deputy
+
+- [@simply-alliv](https://github.com/simply-alliv)
+
+#### Video Creations (Design and Content) Deputy
+
+- [@khaulat](https://github.com/khaulat)
 
 ### Executive Helpers
 
