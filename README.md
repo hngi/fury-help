@@ -11,6 +11,7 @@ For quick navigation:
 - [Code of Conduct](#coc)
 - [Contributing](#contributing)
 - [GitHub Project Guide](#gprojectguide)
+- [Task Submissions](#tasksubmissions)
 
 ## <a name="welcome"></a> Welcome
 
@@ -78,7 +79,7 @@ None
 
 None
 
-## The Teams
+## <a name="teams"></a> The Teams
 
 There are mainly 4 active teams. The other non-active teams are there to support the 4 active teams in achieving their goals and objectives efficiently and effectively.
 
@@ -98,18 +99,18 @@ There are mainly 4 active teams. The other non-active teams are there to support
 5. [Research Team](https://github.com/orgs/hng-teamfury-org/teams/research-team) (under Operations Team)
 6. [Marketing Team](https://github.com/orgs/hng-teamfury-org/teams/marketing-team) (under Operations Team)
 
-## Code of Conduct
+## <a name="coc"></a> Code of Conduct
 
 Please read HNG Team Fury's [Code of Conduct](https://github.com/hng-teamfury-org/executive/blob/master/CODE_OF_CONDUCT.md). It is important that you follow the code to ensure that everyone remains professional and fair.
 
-## Contributing
+## <a name="contributing"></a> Contributing
 
 For further information on contributing to the team's repositories, please view the readme file in the repository of the relevant team.
 
-## GitHub Project Guide
+## <a name="gprojectguide"></a> GitHub Project Guide
 
 For further information on GitHub Project, the project management tool, see the [GitHub Project's Guide](https://github.com/hng-teamfury-org/help/blob/master/GITHUB_PROJECTS_GUIDE.md).
 
-## Tasks Submissions
+## <a name="tasksubmissions"></a> Tasks Submissions
 
 For further information on the team's task submissions, please view the [tasks submissions file](https://github.com/hngi/fury-help/blob/master/TASKS.md).
