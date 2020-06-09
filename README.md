@@ -109,3 +109,7 @@ For further information on contributing to the team's repositories, please view 
 ## GitHub Project Guide
 
 For further information on GitHub Project, the project management tool, see the [GitHub Project's Guide](https://github.com/hng-teamfury-org/help/blob/master/GITHUB_PROJECTS_GUIDE.md).
+
+## Tasks Submissions
+
+For further information on the team's task submissions, please view the [tasks submissions file](https://github.com/hngi/fury-help/blob/master/TASKS.md).
